@@ -1,4 +1,4 @@
-Programming project utilzing different sorting and MST algorithms.
+Programming project utilizing different sorting and MST algorithms.
 
 1st part is a sort algorithm that prints the order of a Directed Acyclic Graph in topological order. Uses enhanced DFS to sort.
 
