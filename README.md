@@ -7,4 +7,4 @@ Programming project utilzing different sorting and MST algorithms.
 
 Part 3 is a MST algorithm using Prim's. Returns the difference of weight between the original graph and the new MST to determine how much was saved.
 
-The final problem prints "Big world" of two nodes in a graph are seperated by more than 6 nodes. Otherwise prints "Small World."
+The final problem prints "Big world" if two nodes in a graph are seperated by more than 6 nodes. Otherwise prints "Small World."
